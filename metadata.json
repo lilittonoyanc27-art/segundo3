@@ -1,0 +1,6 @@
+{
+  "name": "Campo de las Maravillas - Español y Armenio",
+  "description": "Интерактивная игра Поле чудес для изучения испанского языка с армянским переводом, 50 вопросов Presente de Indicativo, фрукты и дни недели.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
